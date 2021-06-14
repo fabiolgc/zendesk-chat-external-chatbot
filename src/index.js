@@ -1,7 +1,7 @@
 const WebSocket = require("ws"); // https://github.com/websockets/ws
 const request = require("superagent"); // https://github.com/visionmedia/superagent
 
-const ACCESS_TOKEN = "Gampec7l3tyLNuXXSfo8OapqvqKGYNkg5WFcJhiscEIqs9ATsdCkvVxUHGkvd2E";
+const ACCESS_TOKEN = "";
 
 const CHAT_API_URL = "https://chat-api.zopim.com/graphql/request";
 const REQUEST_ID = {
